@@ -22,3 +22,10 @@ with
 ```
 in src/main/java/emu/grasscutter/scripts/SceneScriptManager.java
 then recompile
+
+
+# Credits:
+- me for making this skill issued repo
+- hiro for resources
+- dimbreath for resources as well
+- yuuki for resource inspiration
