@@ -1,8 +1,6 @@
-# 5.2-res
-it is 2nd resource day my dudes
+# 5.2 resources
 
-# on life support and with skill issues
-
+# Not entirely functional
 
 ## in case it doesn't work/console gets spammed a lot, try:
 - replacing 
@@ -25,7 +23,7 @@ then recompile
 
 
 # Credits:
-- me for making this skill issued repo
+- me for putting this together
 - hiro for resources
 - dimbreath for resources as well
 - yuuki for resource inspiration
